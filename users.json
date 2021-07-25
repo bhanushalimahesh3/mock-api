@@ -1,3 +1,20 @@
-{
-    "name":"mahesh"
-}
+[
+    {
+        "name":"One",
+        "email":"one@gmail.com",
+        "contact_number":"1234",
+        "gender":"Male"
+    },
+    {
+        "name":"Two",
+        "email":"two@gmail.com",
+        "contact_number":"56789",
+        "gender":"Male"
+    },
+    {
+        "name":"Three",
+        "email":"three@gmail.com",
+        "contact_number":"123456789",
+        "gender":"Male"
+    }
+]
